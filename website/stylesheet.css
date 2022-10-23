@@ -1,0 +1,36 @@
+.first_div{
+    background-color:darkgrey;
+height:  1140px;
+width:  1500px;
+position: relative;
+left: 200px;}
+
+.menu{height: 100px;
+width: 400px;
+position: relative;
+left: 500px;
+background-color:green;
+border-radius: 20px;}
+
+a{position: relative;
+    color: red;
+height: 100px;
+width: 200px;
+background-color: azure;
+border-radius: 20px;
+left: 100px;
+text-align: center;
+text-decoration: unset;
+text-transform: capitalize;}
+
+.first_divb{   background-color: gray;
+    height:  1140px;
+    width:  1500px;
+    position: relative;
+    left: 200px;}
+article{text-align: center;
+color:brown;}
+form{position: relative;
+    align-self: center;
+ text-align: center;
+}
